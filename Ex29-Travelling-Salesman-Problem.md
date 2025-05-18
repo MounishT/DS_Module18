@@ -13,8 +13,8 @@ To write a C Program to implement Travelling Salesman Problem for finding shorte
 ```
 /*
 Program to implement Travelling Salesman Problem for finding shortest path
-Developed by: K MADHAVA REDDY
-RegisterNumber:  212223240064
+Developed by: T MOUNISH
+RegisterNumber:  212223240098
 */
 #include<stdio.h>
 int a[10][10],visited[10],n,cost=0;
