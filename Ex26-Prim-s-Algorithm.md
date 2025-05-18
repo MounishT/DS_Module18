@@ -21,8 +21,8 @@ End the program.
 ```
 /*
 Program to implement Prim's Algorithm
-Developed by: K MADHAVA REDDY
-RegisterNumber:  212223240064
+Developed by:T MOUNISH
+RegisterNumber:  212223240098
 */
 #include<stdio.h> 
 #include<stdlib.h>
